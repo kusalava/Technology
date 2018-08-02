@@ -1,0 +1,9 @@
+Ravi      MGNT  25000
+Chandra   MGNT  20000
+Srinu     MGNT  20000
+Bhargav    CSE  10000
+Sudheer    CSE  10500
+Anitha     CSE  11500
+Venkat     CSE  12000
+SriLakshmi CSE  10000
+Lavakusa   CSE  8000

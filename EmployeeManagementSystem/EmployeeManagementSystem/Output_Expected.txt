@@ -1,0 +1,9 @@
+Anitha         CSE    12650
+Bhargav        CSE    11000
+Lavakusa       CSE    8800
+SriLakshmi     CSE    11000
+Sudheer        CSE    11550
+Venkat         CSE    13200
+Chandra        MGNT   22000
+Ravi           MGNT   27500
+Srinu          MGNT   22000
