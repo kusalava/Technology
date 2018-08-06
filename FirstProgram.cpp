@@ -20,7 +20,13 @@ float div(int a,int b)
 {
 	return a/b;
 }
-
+void tablePrinting(int number)
+{
+	for(int i=1;i<=20;i++)
+	{
+		cout<<number <<" *  "<<i<<"  =  "<<i*number<<"\n";
+	}
+}
 int main()
 {
 	int a=10,b = 5;
@@ -29,6 +35,8 @@ int main()
  	cout<<"Subtraction  of \t"<<a<<"\t"<<b<<" is"<<sub(a,b)<<"\n";
 	cout<<"Multiplication of \t"<<a<<"\t"<<b<<" is"<<mul(a,b)<<"\n";
 	cout<<"Division of \t"<<a<<"\t"<<b<<" is"<<div(a,b)<<"\n";
+	cout<<b<<"  Th Table is"<<"\n";
+	tablePrinting(b);
 
 	cout<<"Program Execution is completed \n";
 	return 0;
