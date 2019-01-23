@@ -37,7 +37,8 @@ int main()
 	cout<<"Division of \t"<<a<<"\t"<<b<<" is"<<div(a,b)<<"\n";
 	cout<<b<<"  Th Table is"<<"\n";
 	tablePrinting(b);
-
+	cout<<"-----------------------------------------\n";
+	cout<<"Functionality added\n";
 	cout<<"Program Execution is completed \n";
 	return 0;
 
