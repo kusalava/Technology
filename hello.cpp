@@ -3,5 +3,8 @@ using namespace std;
 
 int main()
 {
-	cout<<"Hello world";
+	cout<<"Hello world\n";
+	cout<<"Second change in file\n";
+	return 0;
 }
+
