@@ -40,6 +40,7 @@ int main()
 	cout<<"-----------------------------------------\n";
 	cout<<"Functionality added\n";
 	cout<<"Program Execution is completed \n";
+	cout<<"Function processed\t";
 	return 0;
 
 
