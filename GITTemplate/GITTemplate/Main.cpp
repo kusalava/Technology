@@ -6,6 +6,7 @@ int main()
 	cout << Add(a, b) << "\n";
 	cout << Subtract(a, b) << "\n";
 	cout << Multiply(a, b) << "\n";
+	cin >> a >> b;
 	cout << divison(a, b) << "\n";
 	cout << "Program Executed Successfully\n";
 	std::getchar();
