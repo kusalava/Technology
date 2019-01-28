@@ -21,11 +21,11 @@ int Multiply(int a, int b)
 
 int divison(int a, int b)
 {
-	try
+	if(b>0)
 	{
 		return a / b;
 	}
-	catch (int a)
+	else
 	{
 		cout << "Error\t" << "Cannot Divide by\t" << a << "\n";
 	}
