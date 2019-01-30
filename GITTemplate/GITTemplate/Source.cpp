@@ -21,7 +21,7 @@ int Multiply(int a, int b)
 
 int divison(int a, int b)
 {
-	// It checks divided byzero error
+	// It checks divided by zero error
 	if(b>0)
 	{
 		return a / b;
