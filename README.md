@@ -16,3 +16,5 @@ It contain 4 functions
 This is Feature1 branch
 
 Latest chenges for merigng changes
+
+"Feature complete, itneeds to merge to a feature2 branch"
