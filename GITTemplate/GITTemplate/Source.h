@@ -1,4 +1,5 @@
 #pragma once
+// This is the headr file for Git example project
 #include <iostream>
 #include <fstream>
 #include <cstdio>
