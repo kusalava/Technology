@@ -7,6 +7,7 @@ int Add(int a, int b)
 
 int Subtract(int a, int b)
 {
+	//It subtracts the higher value from lower value
 	if (a > b)
 		return a - b;
 	if (a < b)
