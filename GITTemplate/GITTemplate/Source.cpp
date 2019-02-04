@@ -17,6 +17,7 @@ int Subtract(int a, int b)
 
 int Multiply(int a, int b)
 {
+	//Multiplication of two variables
 	return a*b;
 }
 
