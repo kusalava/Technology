@@ -13,12 +13,8 @@ It contain 4 functions
 4.Division - Division of two numbers
 
 
-<<<<<<< HEAD
 This is Feature2 branch
-=======
 This is Feature1 branch
 
 Latest chenges for merigng changes
 
-"Feature complete, itneeds to merge to a feature2 branch"
->>>>>>> Feature
