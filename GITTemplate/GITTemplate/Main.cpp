@@ -9,6 +9,7 @@ int main()
 	cin >> a >> b;
 	cout << divison(a, b) << "\n";
 	cout << "Program Executed Successfully\n";
+
 	std::getchar();
 	return 0;
 }
