@@ -12,3 +12,13 @@ int Subtract(int a, int b);
 int Multiply(int a,int b);
 
 int divison(int a, int b);
+template<typename Tfirst , typename Tsecond>
+struct SimplePair
+{
+	Tfirst first;
+	Tsecond second;
+	SimplePair(Tfirst f, Tsecond s) :first{ f }, second{ s }
+	{
+	};
+};
+void Example();

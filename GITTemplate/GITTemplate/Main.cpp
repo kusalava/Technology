@@ -8,6 +8,7 @@ int main()
 	cout << Multiply(a, b) << "\n";
 	cin >> a >> b;
 	cout << divison(a, b) << "\n";
+	Example();
 	cout << "Program Executed Successfully\n";
 
 	std::getchar();

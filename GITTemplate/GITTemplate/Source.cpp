@@ -31,3 +31,9 @@ int divison(int a, int b)
 	}
 	return 0;
 }
+
+void Example()
+{
+	auto foo = SimplePair<int, double>{ 4,4.536896 };
+	cout << foo.first << "\t" << foo.second << "\n";
+}
