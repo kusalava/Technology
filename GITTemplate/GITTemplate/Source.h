@@ -25,3 +25,9 @@ struct SimplePair
 	};
 };
 void Example();
+
+//Prototype for R-value Expression c++11
+
+void NewFeature(int&& a);
+
+void UseNewFeature();

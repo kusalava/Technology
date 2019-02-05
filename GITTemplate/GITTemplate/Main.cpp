@@ -9,9 +9,9 @@ int main()
 	cin >> a >> b;
 	cout << divison(a, b) << "\n";
 	Example();
+	UseNewFeature();
 	cout<<"Major branch"<<"\n";
 	cout << "Program Executed Successfully\n";
-
-	std::getchar();
+	system("pause");
 	return 0;
 }
