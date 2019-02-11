@@ -55,5 +55,6 @@ void UseNewFeature()
 	//NewFeature(b);  //It gives an error because it takes only r-values
 	NewFeature(10);  //It will executes
 	NewFeature(b + 20); //This also execute
+	NewFeature(30);
 
 }
