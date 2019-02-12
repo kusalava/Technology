@@ -1,3 +1,5 @@
 This is feature1 file
 
 best
+
+Feature Example2 added
