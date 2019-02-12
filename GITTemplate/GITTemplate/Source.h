@@ -22,3 +22,5 @@ struct SimplePair
 	};
 };
 void Example();
+
+void Example2();

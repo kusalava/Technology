@@ -37,3 +37,10 @@ void Example()
 	auto foo = SimplePair<int, double>{ 4,4.536896 };
 	cout << foo.first << "\t" << foo.second << "\n";
 }
+
+
+void Example2()
+{
+	auto foo = SimplePair<int, double>{ 4,4.536896 };
+	cout << foo.first << "\t" << foo.second << "\n";
+}
